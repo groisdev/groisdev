@@ -82,8 +82,8 @@ _Pide una clave al usuario y valida caracteres ingresados._
 
 <p align="center">
   <a href="https://github.com/groisdev"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" /></a>
-  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kennethgrois@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/kenneth-grois-09261631a/)"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
